@@ -21,11 +21,17 @@ ul {
     justify-content: space-between;
     color: whitesmoke;
 }
+.nav-links li{
+    margin: 0 30px;
+    
+
+
+}
 .nav-links{
     display: flex;
     align-items: center;
 }
->.nav-links .activite {
+.nav-links .activite {
     color: red;
     font-weight:  bold;
     font-size: 20px;
